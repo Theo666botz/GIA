@@ -35,7 +35,8 @@ let wib = moment.tz('Asia/Jakarta').format('HH:mm:ss')
     })
     
 //==============> Menu nya
-let intro = `*ʙᴏᴛ* *ʙᴜɪʟᴅ-ᴏᴘᴇʀᴀᴛᴇ-ᴛʀᴀɴsғᴇʀ* _ᴀᴅᴀʟᴀʜ ᴘʀᴏɢʀᴀᴍ ᴋᴏᴍᴘᴜᴛᴇʀ ʏᴀɴɢ ᴅɪᴊᴀʟᴀɴᴋᴀɴ ᴅɪ ᴡʜᴀᴛsᴀᴘᴘ ʏᴀɴɢ ᴋʜᴜsᴜs ᴅɪʙᴜᴀᴛ ᴜɴᴛᴜᴋ ᴍᴇʟᴀᴋᴜᴋᴀɴ ᴘᴇᴋᴇʀᴊᴀᴀɴ-ᴘᴇᴋᴇʀᴊᴀᴀɴ ᴏᴛᴏᴍᴀᴛɪs, ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ ᴅɪʀᴀɴᴄᴀɴɢ sᴇᴅᴇᴍɪᴋɪᴀɴ ʀᴜᴘᴀ sᴇʜɪɴɢɢᴀ ᴅᴀᴘᴀᴛ ᴅɪɢᴜɴᴀᴋᴀɴ ᴅᴇɴɢᴀɴ ɴʏᴀᴍᴀɴ, ᴅᴀɴ ᴋᴇᴍᴜɴɢᴋɪɴᴀɴ ᴍᴇᴍɪʟɪᴋɪ sᴇᴅɪᴋɪᴛ ʙᴜɢ, ᴀᴅᴀɴʏᴀ ғɪᴛᴜʀ ᴅᴀʀɪ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ ɪɴɪ ᴛᴇɴᴛᴜ ᴀᴋᴀɴ ᴍᴇᴍʙᴀɴᴛᴜ ᴀɴᴅᴀ ᴜɴᴛᴜᴋ ʙᴇʀsᴇɴᴀɴɢ sᴇɴᴀɴɢ, ᴅʟʟ_`
+let intro = `𝐁𝐨𝐭 𝐢𝐧𝐢 𝐝𝐢𝐛𝐮𝐚𝐭 𝐨𝐥𝐞𝐡 𝐓𝐡𝐞𝐨 𝐝𝐚𝐧 𝐝𝐚𝐩𝐚𝐭 𝐦𝐞𝐥𝐚𝐤𝐮𝐤𝐚𝐧 𝐩𝐞𝐤𝐞𝐫𝐣𝐚𝐚𝐧 𝐨𝐭𝐨𝐦𝐚𝐭𝐢𝐬,𝐁𝐨𝐭 𝐢𝐧𝐢 𝐝𝐢𝐫𝐚𝐧𝐜𝐚𝐧𝐠 𝐬𝐞𝐝𝐢𝐦𝐢𝐤𝐢𝐚𝐧 𝐫𝐮𝐩𝐚 𝐝𝐚𝐧 𝐝𝐚𝐩𝐚𝐭 𝐝𝐢𝐠𝐮𝐧𝐚𝐤𝐚𝐧 𝐝𝐞𝐧𝐠𝐚𝐧 𝐧𝐲𝐚𝐦𝐚𝐧. 𝐉𝐢𝐤𝐚 𝐭𝐞𝐫𝐝𝐚𝐩𝐚𝐭 𝐟𝐢𝐭𝐮𝐫 𝐲𝐚𝐧𝐠 𝐞𝐫𝐫𝐨 𝐬𝐢𝐥𝐚𝐡𝐤𝐚𝐧 𝐥𝐚𝐧𝐠𝐬𝐮𝐧𝐠 𝐦𝐞𝐧𝐠𝐡𝐮𝐛𝐮𝐧𝐠𝐢 𝐨𝐰𝐧𝐞𝐫 
+𝐰𝐚.𝐦𝐞/𝟔𝟐𝟖𝟑𝟖𝟏𝟖𝟒𝟎𝟗𝟐𝟖𝟑`
 conn.send3ButtonDoc(m.chat, `\n\n     *『 ɪ ɴ ᴛ ʀ ᴏ ᴄ ᴀ ᴅ ᴜ ᴛ ɪ ᴏ ɴ 』*\n\n`, intro + `\n\n${tag}\n\n`, 'Aʟʟ Mᴇɴᴜ', '.? all', 'Lɪsᴛ Mᴇɴᴜ', '.tesm', '\nAku Pedo Ygy', 'bilek', m, { contextInfo: { forwardingScore: fsizedoc, externalAdReply: { body: 'Tes', containsAutoReply: true, mediaType: 1, mediaUrl: hwaifu.getRandom(),  renderLargerThumbnail: true, showAdAttribution: true, sourceId: 'Tes', sourceType: 'PDF', previewType: 'PDF', sourceUrl: sgc, thumbnail: fs.readFileSync('./thumbnail.jpg'), thumbnailUrl: sgc, title: 'ɪ ɴ ᴛ ʀ ᴏ ᴄ ᴀ ᴅ ᴜ ᴛ ɪ ᴏ ɴ'}}})
     } 
     
